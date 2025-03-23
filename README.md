@@ -56,7 +56,7 @@ This project is a Python script that automates the extraction of names using an 
 
 * Maintained BFS traversal to extract the maximum possible names.
 
-* Script created for testing/exploration script.ipynb
+* Script created for testing/exploration script3.ipynb
 
 ## Features
 
