@@ -16,6 +16,8 @@ This project is a Python script that automates the extraction of names using an 
 
 * Based on these observations, I wrote a Python script to automate the extraction process.
 
+* Script created for testing/exploration script.ipynb
+
 ### Search Algorithm
 
 * Implemented Breadth-First Search (BFS) to ensure that the script explores all possible name prefixes efficiently.
@@ -40,6 +42,8 @@ This project is a Python script that automates the extraction of names using an 
 
 * Adjusted the request handling to maintain efficiency.
 
+* Script created for testing/exploration script2.ipynb
+
 ### Version 3 (v3)
 
 * The API further evolved to include lowercase letters (a-z), digits (0-9), and special characters (+, -, ., and spaces).
@@ -51,6 +55,8 @@ This project is a Python script that automates the extraction of names using an 
 * Ensured proper URL encoding to handle spaces in API queries.
 
 * Maintained BFS traversal to extract the maximum possible names.
+
+* Script created for testing/exploration script.ipynb
 
 ## Features
 
