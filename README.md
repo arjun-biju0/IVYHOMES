@@ -58,6 +58,15 @@ This project is a Python script that automates the extraction of names using an 
 
 * Script created for testing/exploration script3.ipynb
 
+## Observations
+
+* Got 18632 names from v1 autocomplete API.
+
+* Got 13730 names from v2 autocomplete API.
+
+* Got 12516 names from v3 autocomplete API.
+
+
 ## Features
 
 * Automated name extraction using BFS
